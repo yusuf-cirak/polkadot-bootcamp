@@ -1,6 +1,7 @@
-use assignments::week_3::*;
-
 mod assignments;
+
+use assignments::*;
+
 fn main() {
     // Week 1 Task
     // Create a function that takes two string slice arguments and concatenates them into a String. Print the result to console.
